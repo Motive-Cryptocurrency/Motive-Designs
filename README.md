@@ -1,2 +1,2 @@
-# GTD-Designs
-Designs for GTD Cryptocurrency
+# Motive-Designs
+Designs for Motive Cryptocurrency
